@@ -39,6 +39,7 @@ The left panel displays the xy-path, while the panels on the right show the time
 The dotted red line represents the original IP-iLQR, and the blue line represents the zero-order-interpoalted P-IP-iLQR. 
 As shown, P-IP-iLQR reaches the optimal solution faster than the original IP-iLQR.
 
+![Image](https://github.com/user-attachments/assets/6259bc93-728f-4123-a77f-487735dd17c8)
 
 To run the constraint points and margin finding example, use the following command:
 ```
